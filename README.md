@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/YourUsername">
-    <img src="./assets/header.gif" alt="Header GIF" width="100%"/>
+    <img src="./assets/header.gif" alt="Header Animation" width="100%"/>
   </a>
 </p>
 
@@ -17,30 +17,43 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Front-End+Developer;Open+Source+Enthusiast;Web+Developer+From+Georgia" alt="Typing SVG" />
   </a>
 
+  <!-- GitHub Stats -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
   </p>
 
+  <!-- Top Languages -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=midnight-purple" alt="Top Languages" />
   </p>
 
 </div>
 
-<h2 align="center">🚀 Skills</h2>
+---
+
+## 🚀 Skills
+
 <p align="center">
   <img src="./assets/skills.gif" width="80%">
 </p>
 
-<h2 align="center">📂 Projects</h2>
+---
+
+## 📂 Projects
+
 <p align="center">
   <img src="./assets/projects.gif" width="80%">
 </p>
 
-<h2 align="center">📫 Contact Me</h2>
+---
+
+## 📫 Contact Me
+
 <p align="center">
   <img src="./assets/contact.gif" width="80%">
 </p>
+
+---
 
 <p align="center">
   <img src="./assets/footer.gif" width="100%"/>
