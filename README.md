@@ -1,10 +1,9 @@
 <div align="center">
   <img 
-    src="resizingGif.gif" 
+    src="infinityloop.gif" 
     width="100%" 
     alt="Demo GIF"
   />
-</div>
 <h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+a+Full+Stack+Developer;Building+Modern+Web+Experiences;Creating+Scalable+Solutions" alt="Typing SVG"/>
