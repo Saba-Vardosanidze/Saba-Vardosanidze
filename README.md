@@ -6,16 +6,12 @@
   </a>
 </h1>
 
-<p>
-  <video 
-    src="./vardosanidze.mp4" 
-    width="50%" 
-    autoplay 
-    loop 
-    muted 
-    playsinline 
-    style="border-radius: 15px; box-shadow: 0 20px 40px rgba(34, 197, 94, 0.2);; display: block; margin: auto;">
-  </video>
+<p align="center">
+  <img 
+    src="./varodsanidze.png" 
+    width="100%" 
+    alt="Profile Photo"
+    style="border-radius: 15px; box-shadow: 0 20px 40px rgba(34, 197, 94, 0.2); display: block; margin: auto;">
 </p>
 </br>
 <p align="center">
