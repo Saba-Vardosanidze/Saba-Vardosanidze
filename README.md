@@ -56,9 +56,9 @@
 <img src="./GreenLine.png" width="100%" alt="Green Line"/>
 
 <p style=" font-size: 14px;">
-  <img src="./Neko Gojo Satoru.gif" width="20"/>
+  <img src="./pulse green.gif" width="10"/>
   Feel free to explore my projects and reach out for collaborations!
-  <img src="./Neko Gojo Satoru.gif" width="20"/>
+  <img src="./pulse green.gif" width="10"/>
 </p>
 
 </div>
