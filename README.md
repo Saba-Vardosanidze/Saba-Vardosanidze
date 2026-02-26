@@ -4,10 +4,11 @@
     width="100%" 
     alt="Demo GIF"
   />
-<h1>
+<h1 style="border: none; margin: 0; padding: 0;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+a+Full+Stack+Developer;Building+Modern+Web+Experiences;Creating+Scalable+Solutions" alt="Typing SVG"/>
   </a>
+<img src="./GreenLine.png" width="100%" alt="Green Line"/>
 </h1>
 
 <a href="https://www.vardosanidze.online/" target="_blank">
@@ -25,8 +26,9 @@
   ">
 </a>
 
-<h2 style="margin-top: 20px; font-weight: 300;">
+<h2 style="margin-top: 20px; font-weight: 300; border: none; margin: 0; padding: 0;">
   Full Stack Developer |  Web Enthusiast |  Problem Solver
+<img src="./GreenLine.png" width="100%" alt="Green Line"/>
 </h2>
 
 <p style="max-width: 700px; margin: 20px auto; line-height: 1.8; font-size: 16px; color: #555;">
@@ -55,7 +57,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-
 <h3 style="color: #22C55E; margin-top: 30px;">Connect With Me</h3>
 <p>
   <a href="https://www.facebook.com/shako.vardosanidze.1" target="_blank">
@@ -69,7 +70,7 @@
   </a>
 </p>
 
-<hr style="border: 1px solid #22C55E; margin: 30px 0;">
+<img src="./GreenLine.png" width="100%" alt="Green Line"/>
 
 <p style="color: #666; font-size: 14px;">
   <img src="./Neko Gojo Satoru.gif" width="20"/>
