@@ -11,12 +11,14 @@
 <img src="./GreenLine.png" width="100%" alt="Green Line"/>
 </h1>
 
-<img 
-  src="./varodsanidze.png" 
-  alt="Saba Vardosanidze Portfolio"
-  width="100%"
-  style="border-radius:20px; margin:30px 0;"
-/>
+<a href="https://www.vardosanidze.online/" target="_blank">
+  <img 
+    src="./varodsanidze.png" 
+    alt="Saba Vardosanidze Portfolio"
+    width="100%"
+    style="border-radius:20px; margin:30px 0;"
+  />
+</a>
 
 <h2 style="margin-top: 20px; font-weight: 300; border: none; margin: 0; padding: 0;">
   Full Stack Developer |  Web Enthusiast |  Problem Solver
