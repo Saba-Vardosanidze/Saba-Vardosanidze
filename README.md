@@ -8,18 +8,26 @@
 
 <a href="https://www.vardosanidze.online/" target="_blank">
   <img 
-    src="./varodsanidze.png" 
-    width="100%" 
-    height="100%"
-    alt="Profile Photo"
-    style="border: 4px solid #22C55E; box-shadow: 0 10px 30px rgba(34, 197, 94, 0.3); object-fit: cover; margin: 20px 0;">
+  src="./varodsanidze.png" 
+  width="100%" 
+  height="100%"
+  alt="Profile Photo"
+  style="
+    border: 4px solid #22C55E; 
+    box-shadow: 0 10px 30px rgba(34, 197, 94, 0.3); 
+    object-fit: cover; 
+    margin: 20px 0;
+    border-radius: 10px;
+  ">
 </a>
 
-<h3 style="color: #22C55E; margin-top: 20px;">Full Stack Developer | Web Enthusiast | Problem Solver</h3>
+<h2 style="margin-top: 20px; font-weight: 300;">
+  Full Stack Developer |  Web Enthusiast |  Problem Solver
+</h2>
 
-<p style="max-width: 600px; margin: 15px auto; line-height: 1.6; color: #666;">
-  Passionate about building scalable, modern web applications with clean code and great user experiences. 
-  Constantly learning and exploring new technologies.
+<p style="max-width: 700px; margin: 20px auto; line-height: 1.8; font-size: 16px; color: #555;">
+  Passionate about building <strong>scalable, modern web applications</strong> with clean code and exceptional user experiences. 
+  Constantly learning and exploring cutting-edge technologies.
 </p>
 
 <p align="center">
