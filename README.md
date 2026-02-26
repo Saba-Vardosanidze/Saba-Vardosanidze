@@ -6,12 +6,14 @@
   </a>
 </h1>
 
-<img 
-  src="./varodsanidze.png" 
-  width="100%" 
-  height="100%"
-  alt="Profile Photo"
-  style=" border: 4px solid #22C55E; box-shadow: 0 10px 30px rgba(34, 197, 94, 0.3); object-fit: cover; margin: 20px 0;">
+<a href="https://www.vardosanidze.online/" target="_blank">
+  <img 
+    src="./varodsanidze.png" 
+    width="100%" 
+    height="100%"
+    alt="Profile Photo"
+    style="border: 4px solid #22C55E; box-shadow: 0 10px 30px rgba(34, 197, 94, 0.3); object-fit: cover; margin: 20px 0;">
+</a>
 
 <h3 style="color: #22C55E; margin-top: 20px;">Full Stack Developer | Web Enthusiast | Problem Solver</h3>
 
