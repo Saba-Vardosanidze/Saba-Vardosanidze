@@ -51,19 +51,6 @@
 <img src="https://img.shields.io/badge/TailwindCSS-0f0f0f?style=for-the-badge&logo=tailwindcss&logoColor=22C55E&labelColor=0f0f0f&color=22C55E" />
 </p>
 
-<h3 style="color: #22C55E; margin-top: 30px;">Connect With Me</h3>
-<p align="center" style="width:100%; padding:25px 10px; border-radius:20px; display:flex; justify-content:center; flex-wrap:wrap; gap:18px;">
-<a href="https://www.facebook.com/shako.vardosanidze.1" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-0f0f0f?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0f0f0f&color=1877F2"/>
-</a>
-<a href="https://www.instagram.com/_vardosanidzesaba_/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-0f0f0f?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0f0f0f&color=E4405F"/>
-</a>
-<a href="https://www.linkedin.com/in/saba-vardosanidze-76839434b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f0f&color=0A66C2"/>
-</a>
-</p>
-
 <img src="./GreenLine.png" width="100%" alt="Green Line"/>
 
 <p style=" font-size: 14px;">
