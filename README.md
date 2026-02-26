@@ -13,17 +13,19 @@
 
 <a href="https://www.vardosanidze.online/" target="_blank">
   <img 
-  src="./varodsanidze.png" 
-  width="100%" 
-  height="100%"
-  alt="Profile Photo"
-  style="
-    border: 4px solid #22C55E; 
-    box-shadow: 0 10px 30px rgba(34, 197, 94, 0.3); 
-    object-fit: cover; 
-    margin: 20px 0;
-    border-radius: 10px;
-  ">
+    src="./varodsanidze.png" 
+    alt="Saba Vardosanidze Portfolio"
+    width="100%"
+    style="
+      display: block;
+      width: 100%;
+      max-height: 420px;
+      object-fit: cover;
+      border-radius: 12px;
+      margin: 25px 0;
+      transition: 0.3s ease;
+    "
+  />
 </a>
 
 <h2 style="margin-top: 20px; font-weight: 300; border: none; margin: 0; padding: 0;">
