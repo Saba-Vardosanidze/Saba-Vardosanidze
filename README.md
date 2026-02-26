@@ -13,7 +13,7 @@
 
 <a href="https://www.vardosanidze.online/" target="_blank">
   <img 
-    src="./varodsanidze.png" 
+    src="./varodsanidze.webp" 
     alt="Saba Vardosanidze Portfolio"
     width="100%"
     style="border-radius:20px; margin:30px 0;"
