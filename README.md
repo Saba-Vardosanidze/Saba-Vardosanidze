@@ -11,8 +11,7 @@
 <img src="./GreenLine.png" width="100%" alt="Green Line"/>
 </h1>
 
-<a href="https://www.vardosanidze.online/" target="_blank">
-  <img 
+<img 
     src="./varodsanidze.png" 
     alt="Saba Vardosanidze Portfolio"
     width="100%"
@@ -26,17 +25,18 @@
       transition: 0.3s ease;
     "
   />
-</a>
 
 <h2 style="margin-top: 20px; font-weight: 300; border: none; margin: 0; padding: 0;">
   Full Stack Developer |  Web Enthusiast |  Problem Solver
 <img src="./GreenLine.png" width="100%" alt="Green Line"/>
 </h2>
 
-<p style="max-width: 700px; margin: 20px auto; line-height: 1.8; font-size: 16px; color: #555;">
+<p style="max-width: 700px; margin: 20px auto; font-size: 16px; color: #555;">
   Passionate about building <strong>scalable, modern web applications</strong> with clean code and exceptional user experiences. 
   Constantly learning and exploring cutting-edge technologies.
 </p>
+
+<img src="./green-arrow-down.gif" width="50px" height="50px"/>
 
 <p align="center">
   <a href="https://www.vardosanidze.online/" target="_blank">
