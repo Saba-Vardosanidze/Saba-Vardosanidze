@@ -26,8 +26,10 @@
 </h2>
 
 <p style="max-width: 700px; margin: 20px auto; font-size: 16px;">
-  Passionate about building <strong>scalable, modern web applications</strong> with clean code and exceptional user experiences. 
-  Constantly learning and exploring cutting-edge technologies.
+Passionate about building <strong>scalable, modern web applications</strong> with clean code and great user experiences. I enjoy solving problems with simple and efficient solutions while continuously learning modern technologies.
+
+For more information about my projects and experience, feel free to visit my portfolio using the button below.
+
 </p>
 <p align="center">
   <a href="https://www.vardosanidze.online/" target="_blank">
