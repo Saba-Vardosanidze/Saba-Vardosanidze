@@ -38,8 +38,8 @@
   </a>
 </p>
 
-<h3 style="color: #22C55E; margin-top: 30px;">Tech Stack</h3>
-<p>
+<!-- <h3 style="color: #22C55E; margin-top: 30px;">Tech Stack</h3> -->
+<!-- <p>
 <img src="https://img.shields.io/badge/JavaScript-0f0f0f?style=for-the-badge&logo=javascript&logoColor=22C55E&labelColor=0f0f0f&color=1E7E34" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-0f0f0f?style=for-the-badge&logo=typescript&logoColor=22C55E&labelColor=0f0f0f&color=1E7E34" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-0f0f0f?style=for-the-badge&logo=react&logoColor=22C55E&labelColor=0f0f0f&color=1E7E34" />&nbsp;&nbsp;&nbsp;
@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/MongoDB-0f0f0f?style=for-the-badge&logo=mongodb&logoColor=22C55E&labelColor=0f0f0f&color=1E7E34" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker-0f0f0f?style=for-the-badge&logo=docker&logoColor=22C55E&labelColor=0f0f0f&color=1E7E34" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TailwindCSS-0f0f0f?style=for-the-badge&logo=tailwindcss&logoColor=22C55E&labelColor=0f0f0f&color=1E7E34" />
-</p>
+</p> -->
 
 <img src="./GreenLine.png" width="100%" alt="Green Line"/>
 
