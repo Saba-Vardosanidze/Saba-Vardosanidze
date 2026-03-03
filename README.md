@@ -4,10 +4,12 @@
     width="100%" 
     alt="Demo GIF"
   />
+<p style="border: none; margin: 0; padding: 0;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+a+Full+Stack+Developer;Building+Modern+Web+Experiences;Creating+Scalable+Solutions" alt="Typing SVG"/>
   </a>
 <img src="./GreenLine.png" width="100%" alt="Green Line"/>
+</p>
 
 <a href="https://www.vardosanidze.online/" target="_blank">
   <img 
@@ -18,10 +20,10 @@
   />
 </a>
 
-<h2 style="margin-top: 20px; font-weight: 300; border: none; margin: 0; ">
+<p style="margin-top: 20px; font-weight: 300; border: none; margin: 0; padding: 0;">
   Full Stack Developer |  Web Enthusiast |  Problem Solver
 <img src="./GreenLine.png" width="100%" alt="Green Line"/>
-</h2>
+</p>
 
 <p style="max-width: 700px; margin: 20px auto; font-size: 16px;">
 Passionate about building <strong>scalable, modern web applications</strong> with clean code and great user experiences. I enjoy solving problems with simple and efficient solutions while continuously learning modern technologies.
