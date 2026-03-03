@@ -20,7 +20,7 @@
   />
 </a>
 
-<p style="margin-top: 20px; font-weight: 300; border: none; margin: 0; padding: 0;">
+<p style="margin-top:20px; font-size:26px; font-weight:300;">
   Full Stack Developer |  Web Enthusiast |  Problem Solver
 <img src="./GreenLine.png" width="100%" alt="Green Line"/>
 </p>
