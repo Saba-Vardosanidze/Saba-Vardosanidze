@@ -26,6 +26,7 @@
 </a>
 
 <p style="font-weight:300;">
+<p></p>
   <a href="https://git.io/typing-svg">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Full+Stack+Developer+%7C+Problem+Solver"
@@ -33,9 +34,8 @@
       style="display:block; margin:0 auto 5px auto;"
     />
   </a>
-</p>
-
   <img src="./GreenLine.png" width="100%" alt="Green Line"/>
+</p>
 
 <p style="max-width: 700px; margin: 20px auto; font-size: 16px;">
 Passionate about building <strong>scalable, modern web applications</strong> with clean code and great user experiences. I enjoy solving problems with simple and efficient solutions while continuously learning modern technologies.
