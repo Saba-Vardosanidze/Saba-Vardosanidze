@@ -21,7 +21,12 @@
 </a>
 
 <p style="margin-top:20px; font-size:26px; font-weight:300;">
-  Full Stack Developer |  Web Enthusiast |  Problem Solver
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Full+Stack+Developer+%7C+Problem+Solver"
+      alt="Typing SVG"
+    />
+  </a>
 <img src="./GreenLine.png" width="100%" alt="Green Line"/>
 </p>
 
