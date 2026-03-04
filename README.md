@@ -25,7 +25,7 @@
   />
 </a>
 
-<p style="margin-top:20px; font-weight:300; margin-bottom:0;">
+<p style="font-weight:300;">
   <a href="https://git.io/typing-svg">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Full+Stack+Developer+%7C+Problem+Solver"
