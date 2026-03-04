@@ -6,7 +6,6 @@
   />
 
 <p style="margin:0; padding:0;">
-
 <p></p>
 
   <a href="https://git.io/typing-svg" style="display:block; width:100%; text-align:center;">
